@@ -12,7 +12,7 @@ namespace ProtectedApi
         private readonly string[] _thingsAboutOwner = new[]
         {
             "I love twice",
-            "I have cat name macy",
+            "I have cat named macy",
             "I play volleyball",
             "I love watching anime",
             "My name is Rodolfo Mae",
