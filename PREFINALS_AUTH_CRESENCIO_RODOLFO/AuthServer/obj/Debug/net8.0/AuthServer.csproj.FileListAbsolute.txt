@@ -1,0 +1,8 @@
+C:\Users\Moyla\Documents\GitHub\PREFINALS_ASSIGNMENT1_CRESENCIO_RODOLFO-MIGUEL_BSIT_32E1\PREFINALS_AUTH_CRESENCIO_RODOLFO\AuthServer\obj\Debug\net8.0\AuthServer.csproj.AssemblyReference.cache
+C:\Users\Moyla\Documents\GitHub\PREFINALS_ASSIGNMENT1_CRESENCIO_RODOLFO-MIGUEL_BSIT_32E1\PREFINALS_AUTH_CRESENCIO_RODOLFO\AuthServer\obj\Debug\net8.0\AuthServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moyla\Documents\GitHub\PREFINALS_ASSIGNMENT1_CRESENCIO_RODOLFO-MIGUEL_BSIT_32E1\PREFINALS_AUTH_CRESENCIO_RODOLFO\AuthServer\obj\Debug\net8.0\AuthServer.AssemblyInfoInputs.cache
+C:\Users\Moyla\Documents\GitHub\PREFINALS_ASSIGNMENT1_CRESENCIO_RODOLFO-MIGUEL_BSIT_32E1\PREFINALS_AUTH_CRESENCIO_RODOLFO\AuthServer\obj\Debug\net8.0\AuthServer.AssemblyInfo.cs
+C:\Users\Moyla\Documents\GitHub\PREFINALS_ASSIGNMENT1_CRESENCIO_RODOLFO-MIGUEL_BSIT_32E1\PREFINALS_AUTH_CRESENCIO_RODOLFO\AuthServer\obj\Debug\net8.0\AuthServer.csproj.CoreCompileInputs.cache
+C:\Users\Moyla\Documents\GitHub\PREFINALS_ASSIGNMENT1_CRESENCIO_RODOLFO-MIGUEL_BSIT_32E1\PREFINALS_AUTH_CRESENCIO_RODOLFO\AuthServer\obj\Debug\net8.0\AuthServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Moyla\Documents\GitHub\PREFINALS_ASSIGNMENT1_CRESENCIO_RODOLFO-MIGUEL_BSIT_32E1\PREFINALS_AUTH_CRESENCIO_RODOLFO\AuthServer\obj\Debug\net8.0\AuthServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Moyla\Documents\GitHub\PREFINALS_ASSIGNMENT1_CRESENCIO_RODOLFO-MIGUEL_BSIT_32E1\PREFINALS_AUTH_CRESENCIO_RODOLFO\AuthServer\obj\Debug\net8.0\AuthServer.sourcelink.json
